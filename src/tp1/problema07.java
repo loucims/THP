@@ -2,7 +2,7 @@ package tp1;
 
 import java.util.Scanner;
 
-public class problema7 {
+public class problema07 {
     public static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.print("Largo en metros: ");

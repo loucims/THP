@@ -2,7 +2,7 @@ package tp1;
 
 import java.util.Scanner;
 
-public class problema2 {
+public class problema02 {
     public static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.print("Primera nota: ");

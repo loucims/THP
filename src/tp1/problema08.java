@@ -2,7 +2,7 @@ package tp1;
 
 import java.util.Scanner;
 
-public class problema8 {
+public class problema08 {
     public static Scanner scanner = new Scanner(System.in);
 
     static int sumar(int num1, int num2){
